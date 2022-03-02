@@ -45,5 +45,5 @@ pwrPos03:功率测点
    $$
    
 
-- 注意<kbd>testData.csv</kbd>中,freq列的数据应当X1000倍
+- 注意<kbd>testData.csv</kbd>中,hydPres列的数据应当X1000倍
 
